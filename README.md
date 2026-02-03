@@ -1,6 +1,6 @@
 # Biostatistics
 
-Welcome to the **Biostatistics** repository!  
+Welcome to my **Biostatistics** repository!  
 This repository is dedicated to storing and organizing code for projects related to **biostatistics**, with particular emphasis on **biomedical** and **statistical genetics** research.
 
 ## 📚 About
